@@ -1,0 +1,2 @@
+# minda
+personal website
